@@ -1,4 +1,4 @@
-const CACHE = 'loxsav-bordeaux-v1';
+const CACHE = 'loxsav-bordeaux-v2';
 const ASSETS = [
   './',
   './index.html',
